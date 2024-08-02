@@ -3,7 +3,7 @@
 
 <pre>
 Name: Jha Suraj Kumar
-Class : B.Tech Final Yeaar 
+Class : B.Tech Final Year 
 </pre>
 
 Hospital Management System made for Full Stack Training Project.<br>
