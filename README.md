@@ -6,7 +6,7 @@ Hospitals interact with a lot of people in a day and there are various activitie
 
 <pre>
 Name: Jha Suraj Kumar
-Class : B.Tech Final Yeaar 
+Class : B.Tech Final Year 
 </pre>
 
 Hospital Management System made for Full Stack Training Project.<br>
