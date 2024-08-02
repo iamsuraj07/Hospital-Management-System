@@ -1,14 +1,49 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : 
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Jha Suraj Kumar
+Class : B.Tech Final Yeaar 
 </pre>
 
-Hospital Management System made for Sem 5 DBMS Course Project.<br>
+Hospital Management System made for Full Stack Training Project.<br>
 Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
+
+What is a Hospital Management System?
+A study showed that healthcare providers spend 35% of their time on documenting patient data. While paperwork is unavoidable in a hospital, you can automate the process and reduce the burden on the staff and doctors. Not just this, hundreds of other processes run parallel in a hospital. An HMS is a one-stop solution to manage all hospital processes and data transfer. You can use it to digitize and simplify activities like: 
+
+Patient record management. 
+Tracking and managing appointments. 
+Maintaining staff records. 
+Billing and insurance claims. 
+
+Home
+Learn
+Healthcare
+11 Modules of Hospital Management System and their Benefits
+Ever wondered what it is like to manage an entire hospital?  
+
+It definitely sounds difficult.  
+
+Well, if you’ve landed on this article, you know that efficiently running an entire hospital isn’t a walk in the park. Although it is essential, it gets overwhelming at times.  
+
+Time is of the utmost importance when it comes to healthcare. Imagine the severity if there is even a minor delay or fault while sharing the results and diagnosis.  To simplify operations and efficiently manage patient records, leading hospitals use a hospital management system.  Employing hospital management software helps you reap the maximum benefits from your work.  
+
+Before discussing in detail how you can leverage an HMS to the fullest, let us understand what an HMS is and why it is needed. 
+
+What is a Hospital Management System?
+A study showed that healthcare providers spend 35% of their time on documenting patient data. While paperwork is unavoidable in a hospital, you can automate the process and reduce the burden on the staff and doctors. Not just this, hundreds of other processes run parallel in a hospital. An HMS is a one-stop solution to manage all hospital processes and data transfer. You can use it to digitize and simplify activities like: 
+
+. Patient record management 
+. Tracking and managing appointments 
+. Maintaining staff records 
+. Billing and insurance claims 
+
+Overall, an HMS helps you improve patient experience and the quality of service provided in the hospital.  At the same time it is also used to minimize operating expenses and improve the revenue cycle.  
+
+In a nutshell, Hospital Management System (HMS) creates a frictionless approach to managing the entire hospital and solving operational complexities.  
+
+However, HMS can be a complex system. For ease of understanding and implementation, it is divided into different modules. These modules are built depending on the needs of a department or a particular process. Let’s look at the 11 HMS modules that are essential for any hospital to improve end-to-end productivity.
 
 <b>Technologies Used:</b>
 <pre>
@@ -17,11 +52,6 @@ Backend : Node.js, Express
 Database : MySQL
 </pre>
 
-<b>ER Diagram :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
-
-<b>Relational Schemas :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/schema.png)
 
 <b>Patient Side Features :</b>
 
@@ -53,42 +83,6 @@ Database : MySQL
     
     5. Doctors are able to modify diagnosis and prescriptions.
 
-<b>Screenshots :</b>
-1. Patient registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png)
-
-2. Doctor registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
-
-3. Log In Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
-
-4. Password Reset Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
-
-5. Patient Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
-
-6. Patient Viewing History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
-
-7. Patient Viewing Appointments:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
-
-8. Patient Scheduling Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
-
-9. Doctor Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
-
-10. Doctor Viewing Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
-
-11. Doctor Giving Diagnosis:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
-
-12. Doctor Viewing Patient History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
 
 <b>Instructions to run:</b>
 
